@@ -3,7 +3,7 @@
 ###### Purpose:
    Demonstrate a simple E-Commerce App using javascript
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/spaceX/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/SpaceX/).
 
 ## Concepts that are used in this app :
 ###### 
